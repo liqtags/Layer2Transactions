@@ -1,1 +1,2 @@
-# Liqtags Namespace Package Starter
+# @liqtags/layer2transactions
+
